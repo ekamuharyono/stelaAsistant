@@ -1,5 +1,5 @@
 # stelaAsistant
-on developing by developer
+on development by developer
 
 This is an assistant application that can simplify your activities in surfing the internet. You can also connect this application to Smarthome devices in your home. This application is being developed by Eka Muharyono from Indonesia.
 
